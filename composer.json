@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/inizio",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Volodymyr Cherniyevskyy",
+      "email": "v.cherniyevskyy@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-curl": "*",
+    "ext-simplexml": "*",
+    "voku/simple-mysqli": "8.*"
+  }
+}
